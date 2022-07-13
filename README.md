@@ -1,4 +1,4 @@
-## Hi there, I'm Giuliano Accorsi 👋!
+## Hi there, I'm Giuliano Accorsi 👋
 </div>
 <img align="right" alt="Giuliano-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/45433850?v=4">
 <h3 align="left">I am a mobile enthusiast. I am a mobile developer passionate about the combination between quality software and a great UX</h3>
